@@ -16,6 +16,7 @@ local M = {}
 -- DONE: processing keys still going to detect enter and esc and backspace
 -- DONE: start working on autocompletion for the commands
 
+-- TODO: check how to handle taking suggestions in
 -- TODO: exectute even lite xl commands
 -- TODO: clearing status bar shoul accept exceptions
 -- TODO: console.log stealing the status bar (test it and see if still happen)
